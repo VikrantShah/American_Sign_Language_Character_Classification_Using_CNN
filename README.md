@@ -12,4 +12,9 @@ Sign language is a visual language. It mainly consists of 3 major components:
 
 3. Non-manual features: Facial expressions, tongue, mouth, body positions
 
+## Splitting the Dataset
+This dataset is divided into 70:30:0 ratio (70% for Training, 30% for Validation, and 0% for Testing), using the [split-folders](https://pypi.org/project/split-folders/) package.
+<br>
+The code for splitting the dataset can be found [here](https://github.com/VikrantShah/Python_Programs/blob/main/Splitting_train_validation_test.py).
+
 C201024C201102
